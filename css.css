@@ -6,7 +6,7 @@
   box-sizing: border-box;
   background-repeat:no-repeat;
 }
-
+img{margin-top: 20px;}
 .whole{
 	padding-bottom:100px;
 	background-color:#ffe3b0;
@@ -15,7 +15,9 @@
 .top{/* border: 1px purple solid;*/
 	border-radius: 22px;
 }
-.zz{padding: 200px 100px;
+.zz{padding-bottom:100px;padding-top:100px;
+  padding-right: 100px;
+  padding-left: 100px;
 }
 .bot{
 border-top: 1px orange solid;
